@@ -1,0 +1,1 @@
+{"name":"uae-gold-pwa","version":"1.0.0","description":"UAE GoldDeal Calculator & Indicator (PWA)","private":true,"scripts":{"start":"npx serve . -l 3000","test":"node tests/calculator.test.js"},"license":"MIT"}
